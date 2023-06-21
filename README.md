@@ -1,10 +1,10 @@
-# Prototypical Implementation of CLUSTEP
+# Prototypical Implementation of OSTRICH
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-2d618c?logo=python)](https://docs.python.org/3.10/)
 
 This repository consists of the prototypical implementation of the following paper:
 
-***CLUSTEP: Clustering Subtraces on a Temporal Perspective* by Janina Sontheim, Ludwig Zellner, Simon Rauch, and Thomas Seidl**
+***OSTRICH: Ordering Subtraces Regarding Temporal Characteristic* by Janina Sontheim, Ludwig Zellner, Simon Rauch, and Thomas Seidl**
 
 ### Preconditions
 * A database consisting of sequences and corresponding timestamps is required
