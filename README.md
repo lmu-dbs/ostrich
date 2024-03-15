@@ -1,10 +1,10 @@
-# Prototypical Implementation of OSTRICH
+# Prototypical Implementation of SORT-CLU
 
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-2d618c?logo=python)](https://docs.python.org/3.10/)
 
 This repository consists of the prototypical implementation of the following paper:
 
-***OSTRICH: Ordering Subtraces Regarding Temporal Characteristics***
+***SORT-CLU: Subtrace Ordering for Temporal Clustering***
 
 ### Preconditions
 * A database consisting of sequences and corresponding timestamps is required
