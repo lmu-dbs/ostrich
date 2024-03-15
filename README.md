@@ -4,7 +4,7 @@
 
 This repository consists of the prototypical implementation of the following paper:
 
-***OSTRICH: Ordering Subtraces Regarding Temporal Characteristics* by Janina Sontheim, Ludwig Zellner, Simon Rauch, and Thomas Seidl**
+***OSTRICH: Ordering Subtraces Regarding Temporal Characteristics***
 
 ### Preconditions
 * A database consisting of sequences and corresponding timestamps is required
